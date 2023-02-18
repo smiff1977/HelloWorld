@@ -4,8 +4,7 @@ public class HelloWorld {
     {
         System.out.println("Hello World");
         String name = "Michael";
-        String output = "My name is" + name + "!" + "i am";
-        int age = (45);
-        System.out.println (output + age);
+        String output = "My name is" + name;
+        System.out.println (output);
     }
 }
